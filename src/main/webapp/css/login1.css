@@ -1,0 +1,83 @@
+*, body {
+  padding: 0;
+  margin: 0; }
+
+body {
+  overflow: hidden;
+  font-family: 'Kaushan Script','Wendy One', sans-serif; }
+
+h1, h2, h3 {
+  color: #fff; }
+
+.con {
+ /*  background: url("../images/slider10.jpg"); */
+  background-color: yellow;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+.overlay {
+  background: rgba(31, 31, 31, 0.4);
+  height: inherit; }
+
+.main-con {
+  border-radius: 5px;
+  margin: 10px; }
+
+::-webkit-input-placeholder {
+  color: #cacaca;
+  text-align: center; }
+
+input {
+  outline: none; }
+
+.in {
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #969696;
+  color: #E0E0E0;
+  text-align: center;
+  font-size: 16px;
+  margin: -25px 0 0 0px;
+  padding: 10px 0px;
+  width: 100%; }
+  .in:focus {
+    outline: none; }
+    .in:focus::-webkit-input-placeholder {
+      color: #E0E0E0; }
+
+.in:focus + .underline {
+  transform: scale(1); }
+
+.underline {
+  background-color: #129cf3;
+  display: inline-block;
+  height: 2px;
+  margin-top: -5px;
+  position: absolute;
+  top: 38px;
+  -webkit-transform: scale(0, 2);
+  transform: scale(0, 2);
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  width: 95.5%; }
+
+.t {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #969696;
+  margin-top: 200px; }
+
+.btn {
+  font-family: 'Didact Gothic', sans-serif;
+  font-weight: 700; }
+
+@media only screen and (max-width: 680px) {
+  .display-3 {
+    font-size: 50px; } }
+@media only screen and (max-width: 460px) {
+  .display-3 {
+    font-size: 40px; } }
+
+/*# sourceMappingURL=login1.css.map */
