@@ -1,4 +1,4 @@
-# ROOM-BOOKING-SYSTEM
+# HOTEL-BOOKING-SYSTEM
 It is an Web Application based on Servlets, Hibernate, Jsp.
 
 ### About The Project:-
