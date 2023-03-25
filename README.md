@@ -1,6 +1,15 @@
 # ROOM-BOOKING-SYSTEM
 It is an Web Application based on Servlets, Hibernate, Jsp.
-## INTRODUCTION
+
+### About The Project:-
+1. Hotel Booking System is an complete web application project based on Servlet and Hibernate Framework.
+2. This project has 5 Modules are as Follows: <br> 1. **Admin** <br> 2. **LandLord** <br> 3. **Hotel** <br> 4. **Rooms** <br> 5. **Customer**
+3. ### Roles:- <br> 
+   1.  **Admin** role is to approve all the lanlord property i.e hotel. If the property get approved by admin then only it should visible for customers.
+   2.  **Landlord** role is manage(CRUD-operations) all its property i.e. Hotels
+   3.  **Hotel** role is to approve all the rooms wheather it is available or not for customers.
+   4.  **Customers**  role is to book rooms. <br>
+
 ### Tools and Technologies used:-
 
 1. Eclipse IDE
@@ -11,6 +20,10 @@ It is an Web Application based on Servlets, Hibernate, Jsp.
 6. Java
 7. JSP
 8. HTML-CSS
+
+### Packages & Class:-
+![Capture1](https://user-images.githubusercontent.com/22257930/220373908-38792145-a65a-4563-b9ea-d7f4f5d7a4dd.PNG)
+1. Total 4 package is present <br> a. **Controller** contains all the class which is used to perform crud operation. <br>   b. **Dao** contains all the class which is used for Data Access Object. <br>   c. **Dto** contains all the class which is used for Data Transfer Object. <br>   d. **Services** contains all the class for business logic. <br>
  
 ![image](https://user-images.githubusercontent.com/22257930/226913316-b6db57a5-bda2-4c94-b941-07132f0c1cd4.png) <br>
 ![image](https://user-images.githubusercontent.com/22257930/226913558-02a998d3-eeb2-4041-83e0-2aefeb60bf5b.png) <br>
