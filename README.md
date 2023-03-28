@@ -25,6 +25,7 @@ It is an Web Application based on Servlets, Hibernate, Jsp.
 ![Capture1](https://user-images.githubusercontent.com/22257930/220373908-38792145-a65a-4563-b9ea-d7f4f5d7a4dd.PNG)
 1. Total 4 package is present <br> a. **Controller** contains all the class which is used to perform crud operation. <br>   b. **Dao** contains all the class which is used for Data Access Object. <br>   c. **Dto** contains all the class which is used for Data Transfer Object. <br>   d. **Services** contains all the class for business logic. <br>
  
+ ### Screenshot (Run: newhome.html file)
 ![image](https://user-images.githubusercontent.com/22257930/226913316-b6db57a5-bda2-4c94-b941-07132f0c1cd4.png) <br>
 ![image](https://user-images.githubusercontent.com/22257930/226913558-02a998d3-eeb2-4041-83e0-2aefeb60bf5b.png) <br>
 ![image](https://user-images.githubusercontent.com/22257930/226913613-4f876012-3da5-4da7-a8a3-d4fb1f662aeb.png) <br>
