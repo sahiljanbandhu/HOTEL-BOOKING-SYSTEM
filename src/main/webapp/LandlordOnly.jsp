@@ -187,7 +187,7 @@
 					aria-expanded="false">Approve</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					
-				    <a class="dropdown-item" href="ApproveHotel.jsp">Hotel Approve</a>
+				    <a class="dropdown-item" href="LandLordAddHotelById.jsp">Hotel Approve</a>
 				    </div></li>		
 								<!-- Hotel cruds -->
 				
