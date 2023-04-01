@@ -54,11 +54,17 @@ It is an Web Application based on Servlets, Hibernate, Jsp.
 ![image](https://user-images.githubusercontent.com/22257930/226923057-a4f830d3-4f03-4c2d-a68f-452b7a78ccb0.png) <br>
 ![image](https://user-images.githubusercontent.com/22257930/226923108-963d4164-67da-4759-af4c-5aa99671a884.png) <br>
 
-![image](https://user-images.githubusercontent.com/22257930/226923752-cc38513c-d7e8-4370-a296-421c4504420a.png) <br>
-![image](https://user-images.githubusercontent.com/22257930/226923945-646ffc0e-288c-4676-a03d-ab4c90eb5431.png) <br>
-![image](https://user-images.githubusercontent.com/22257930/226923998-f8524c4d-5775-443b-8f42-c31d67060041.png) <br>
-![image](https://user-images.githubusercontent.com/22257930/226924070-b7376906-6bb1-41f1-a47a-c2bd1b0c3475.png) <br>
-![image](https://user-images.githubusercontent.com/22257930/226924120-9945981f-ebf9-49e6-b884-8cee714fa134.png) <br>
-![image](https://user-images.githubusercontent.com/22257930/226924181-84bcf0d7-b69f-479e-a52d-247e41b29252.png) <br>
+### DATABASE:
+![image](https://user-images.githubusercontent.com/22257930/226923752-cc38513c-d7e8-4370-a296-421c4504420a.png) <br><br>
+1. Admin Table <br>
+![image](https://user-images.githubusercontent.com/22257930/226923945-646ffc0e-288c-4676-a03d-ab4c90eb5431.png) <br> <br>
+2. Customer Table <br>
+![image](https://user-images.githubusercontent.com/22257930/226923998-f8524c4d-5775-443b-8f42-c31d67060041.png) <br> <br>
+3. Hotel Table <br>
+![image](https://user-images.githubusercontent.com/22257930/226924070-b7376906-6bb1-41f1-a47a-c2bd1b0c3475.png) <br> <br>
+4. Landlord Table <br>
+![image](https://user-images.githubusercontent.com/22257930/226924120-9945981f-ebf9-49e6-b884-8cee714fa134.png) <br> <br>
+5. Rooms Table <br>
+![image](https://user-images.githubusercontent.com/22257930/226924181-84bcf0d7-b69f-479e-a52d-247e41b29252.png) <br> <br>
 
 
